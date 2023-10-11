@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">GitHubSearch</string>
-    <string name="nome_usuario">Nome do usuário</string>
-    <string name="confirmar">Confirmar</string>
+    <string name="confirm">Pesquisar</string>
+    <string name="name_user">Nome do usuário</string>
+    <string name="name_repository">Nome do Repositório</string>
+    <string name="searching">Pesquisando...</string>
+    <string name="msg_error">Erro, tente de novo depois!</string>
 </resources>
